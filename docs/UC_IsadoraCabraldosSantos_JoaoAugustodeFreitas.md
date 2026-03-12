@@ -1,5 +1,8 @@
 # Documento de Casos de Uso – Sistema FitPass Gym Management
 
+## Diagrama Geral
+<img width="666" height="850" alt="DUC_GERAL_IsadoraCabraldosSantos_JoaoAugustodeFreitas" src="https://github.com/user-attachments/assets/67cbd264-1961-4f3d-9258-9dc8cd77ca55" />
+
 ---
 
 ## UC01 — Realizar Login
